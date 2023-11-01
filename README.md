@@ -21,7 +21,7 @@ So there you have it – Swift frameworks, making coding life more fun, efficien
 
 ## Running this project
 
-Clone this project into your local machine and open the `BoredFramework.xcworkspace`` to view the full project source code.
+Clone this project into your local machine and open the `BoredFramework.xcworkspace` to view the full project source code.
 
 In order to compile the Framework and make it ready for deployment, run the following commands at the project's root:
 
