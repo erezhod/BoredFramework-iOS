@@ -1,4 +1,6 @@
-# Creating a Swift Framework - Example Project
+![Image Cover image](./Assets/cover_image.png)
+
+# Creating a Swift Framework - The Practical Story (Example Project)
 
 This repository is a part of the "Creating a Swift Framework" article.
 
