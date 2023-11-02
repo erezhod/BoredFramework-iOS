@@ -2,7 +2,7 @@
 
 # Creating a Swift Framework - The Practical Story (Example Project)
 
-This repository is a part of the "Creating a Swift Framework" article.
+This repository is a part of the [Creating a Swift Framework article](https://medium.com/p/dcc2f943f36c).
 
 ## What are Swift Frameworks?
 
